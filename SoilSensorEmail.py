@@ -1,5 +1,13 @@
 #!/usr/bin/env python3
 
+# Use Comments
+# Program Title: SoilSensorEmail.py
+# Program Description: Send email about the soil moisture status every three hours
+# Name: Renjie Zhou
+# Student ID: 202283890006  W20110010
+# Course & Year: Project Semester 3 & Grade 3
+# Date: 26/4/2025
+
 import RPi.GPIO as GPIO
 import smtplib
 import time
